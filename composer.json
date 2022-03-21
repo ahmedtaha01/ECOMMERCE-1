@@ -1,0 +1,10 @@
+{
+  "autoload": {
+      "psr-4": {
+        "PHPMVC\\": "app/"
+      }
+  },
+  "require": {
+    "ext-pdo": "*"
+  }
+}
